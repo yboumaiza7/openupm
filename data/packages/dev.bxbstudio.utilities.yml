@@ -1,0 +1,19 @@
+name: dev.bxbstudio.utilities
+displayName: Utilities
+description: >-
+  The Unity CSharp Utilities library provides a bunch of useful tools that are
+  missing from the UnityEngine assembly
+repoUrl: https://github.com/BxB-Studio/Unity-CSharp-Utilities
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: MIT
+image: ''
+topics:
+  - frameworks
+  - utilities
+hunter: yboumaiza7
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: master:README.md
+createdAt: 1738863770966
