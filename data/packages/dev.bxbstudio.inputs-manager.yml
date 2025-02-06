@@ -1,0 +1,20 @@
+name: dev.bxbstudio.inputs-manager
+displayName: Inputs Manager
+description: >-
+  A simple and customization input alternative for Unity based on the New Input
+  System.
+repoUrl: https://github.com/BxB-Studio/Inputs-Manager
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+image: https://img.youtube.com/vi/oZlrqwAjiqQ/maxresdefault.jpg
+topics:
+  - editor-enhancement
+  - input-management
+  - utilities
+hunter: yboumaiza7
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: master:README.md
+createdAt: 1738863613966
